@@ -15,4 +15,5 @@ function createStore(cb: StateCreator<any, ZustandMiddleware>) {
 }
 
 // we'll use this for client-side application state
-export const useGlobalStore = createStore(() => ({}));
+// we might want to use this for light mode and dark mode interactions
+export const useGlobalStore = createStore((_set, _get) => ({}));
