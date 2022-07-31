@@ -1,6 +1,6 @@
 # TODO
 
 - [x] TailwindCSS
-- [ ] Prisma
-- [ ] Zustand
-- [ ] TanStack Query
+- [x] Prisma
+- [x] Zustand
+- [x] TanStack Query
