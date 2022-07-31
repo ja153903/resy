@@ -1,6 +1,4 @@
 # TODO
 
-- [x] TailwindCSS
-- [x] Prisma
-- [x] Zustand
-- [x] TanStack Query
+- [ ] Set up PlanetScale?
+      = [ ] All Prisma-related queries should live in the api folder
